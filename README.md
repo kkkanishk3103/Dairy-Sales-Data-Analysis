@@ -9,22 +9,22 @@ This integrated project focuses on analyzing the dairy sector using Python progr
 
 Dairy Sales Data Analysis/
 ├── Python code/
-│   └── dairy_dataset.ipynb
+│ └── dairy_dataset.ipynb
 │
 ├── Sheets/
-│   ├── Data/
-│   │   └── dairy_dataset.csv
-│   │
-│   └── Output/
-│       ├── contingency_table_Dairysales.csv
-│       ├── expected_df_Dairysales.csv
-│       ├── monthly_gross_profit.csv
-│       ├── simple_random_sample_dairy.csv
-│       ├── stratified_sample_dairy.csv
-│       └── systematic_sample_dairy.csv
+│ ├── Data/
+│ │ └── dairy_dataset.csv
+│ │
+│ └── Output/
+│ ├── contingency_table_Dairysales.csv
+│ ├── expected_df_Dairysales.csv
+│ ├── monthly_gross_profit.csv
+│ ├── simple_random_sample_dairy.csv
+│ ├── stratified_sample_dairy.csv
+│ └── systematic_sample_dairy.csv
 │
 ├── Report/
-│   └── Dairy_sales Analysis Report.pdf
+│ └── Dairy_sales Analysis Report.pdf
 │
 └── README.md
 
