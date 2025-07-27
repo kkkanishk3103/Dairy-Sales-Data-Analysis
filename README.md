@@ -6,7 +6,7 @@
 This integrated project focuses on analyzing the dairy sector using Python programming, statistical methods, and machine learning techniques. The aim is to explore production trends, financial performance, customer behavior, and predictive modeling for sales channels. The study offers insights for optimizing decision-making and ensuring sustainability in the dairy industry.
 
 ## 📁 Folder Structure
-
+```
 Dairy Sales Data Analysis/
 ├── Python code/
 │ └── dairy_dataset.ipynb
@@ -27,7 +27,7 @@ Dairy Sales Data Analysis/
 │ └── Dairy_sales Analysis Report.pdf
 │
 └── README.md
-
+```
 ---
 
 ## 🛠️ Tools & Technologies Used
